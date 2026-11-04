@@ -1,5 +1,4 @@
 # FraudShield_Machine-Learning-for-Insurance-Fraud-Detection
-# 🛡️ FraudShield – Machine Learning for Insurance Fraud Detection
 
 ## 📌 Project Overview
 FraudShield is a Machine Learning-based project designed to detect and identify fraudulent insurance claims. It analyzes insurance claim data and uses machine learning algorithms to distinguish between genuine and potentially fraudulent claims.
